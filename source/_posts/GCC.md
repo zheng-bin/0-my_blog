@@ -2,8 +2,8 @@
 title: GCC
 date: 2016-09-06 00:37:51
 tags:
-    -gcc
-    -linux
+    - gcc
+    - linux
 ---
 
 # GCC程序编译
