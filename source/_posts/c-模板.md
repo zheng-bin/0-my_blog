@@ -21,6 +21,7 @@ template<模板参数表>
 
 * 定义一个函数模板，获取数组元素最大值
 ```
+<<<<<<< HEAD
 #include <iostream>
 #include <string>
 
@@ -49,4 +50,14 @@ int main()
 }
 ```
 
+=======
+
+
+
+```
+
+
+
+
+>>>>>>> 82c90aba39f2edb2496fc392c331600c27d7c9f8
 ## 类模板
